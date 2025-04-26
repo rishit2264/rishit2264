@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Facial Recognition**
 
-- 🌱 I’m currently learning **Open CV**
+- 🌱 I’m currently learning **AI Agents**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio12-jet.vercel.app/](https://portfolio12-jet.vercel.app/)
 
-- 💬 Ask me about **ANN,CNN**
+- 💬 Ask me about **ANN,CNN,OpenCV**
 
 - 📫 How to reach me **rishitvats14@gmail.com**
 
