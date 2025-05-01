@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishit2264" alt="rishit2264" /></a> </p>
 
-- 🔭 I’m currently working on **Facial Recognition**
+- 🔭 I’m currently working on **AI Agents**
 
 - 🌱 I’m currently learning **AI Agents**
 
