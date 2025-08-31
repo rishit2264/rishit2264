@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishit2264" alt="rishit2264" /></a> </p>
 
-- 🔭 I’m currently working on **AI Agents**
+- 🔭 I’m currently working on **Langchain**
 
 - 🌱 I’m currently learning **AI Agents**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
-- 🤝 I’m looking for help with **Open CV**
+- 🤝 I’m looking for help with **AWS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio12-jet.vercel.app/](https://portfolio12-jet.vercel.app/)
 
