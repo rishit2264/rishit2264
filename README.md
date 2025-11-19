@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **AWS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio12-jet.vercel.app/](https://portfolio12-jet.vercel.app/)
-
 - 💬 Ask me about **ANN,CNN,OpenCV**
 
 - 📫 How to reach me **rishitvats14@gmail.com**
