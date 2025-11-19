@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishit2264" alt="rishit2264" /></a> </p>
 
-- 🔭 I’m currently working on **Langchain**
+- 🔭 I’m currently working on **Mcp-Servers**
 
-- 🌱 I’m currently learning **AI Agents**
+- 🌱 I’m currently learning **Quantum computing**
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Cyber Security projects**
 
 - 🤝 I’m looking for help with **AWS**
 
